@@ -1,0 +1,9 @@
+[ 2024-08-07 16:38:23,941 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-08-07 16:38:25,556 ] 23 root - INFO - Entered Data Ingestion Process
+[ 2024-08-07 16:38:25,562 ] 26 root - INFO - Loaded the Data
+[ 2024-08-07 16:38:25,562 ] 31 root - INFO - train test started :
+[ 2024-08-07 16:38:25,577 ] 39 root - INFO - ingestion of data is done :
+[ 2024-08-07 16:38:25,593 ] 71 root - INFO - loaded train and test data
+[ 2024-08-07 16:38:25,593 ] 73 root - INFO - opening preprocessing object
+[ 2024-08-07 16:38:25,593 ] 49 root - INFO - categorical colums sscaling completed
+[ 2024-08-07 16:38:25,593 ] 51 root - INFO - categorical colums encoding completed

@@ -1,0 +1,7 @@
+[ 2024-08-07 16:20:21,423 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-08-07 16:20:22,236 ] 23 root - INFO - Entered Data Ingestion Process
+[ 2024-08-07 16:20:22,236 ] 26 root - INFO - Loaded the Data
+[ 2024-08-07 16:20:22,236 ] 31 root - INFO - train test started :
+[ 2024-08-07 16:20:22,236 ] 39 root - INFO - ingestion of data is done :
+[ 2024-08-07 16:20:22,252 ] 71 root - INFO - loaded train and test data
+[ 2024-08-07 16:20:22,252 ] 73 root - INFO - opening preprocessing object
